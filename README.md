@@ -36,3 +36,10 @@ Licence
 
 ---
 * [MIT](https://choosealicense.com/licenses/mit/)
+
+---
+
+
+Patika.dev profilim
+
+ *  [Patika.dev](https://app.patika.dev/keremkiliclioglu)
